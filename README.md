@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer networking, cyber security, web and software development
 - 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, MySQL, PHP
 - 💞️ I’m looking to collaborate on web and software development projects
-- 📫 Reach me out on LinkedIn (https://www.linkedin.com/in/nilay-das970/)
+- 📫 Reach me out on LinkedIn (https://www.linkedin.com/in/nilay-das970/) and my website (https://web.cs.dal.ca/~ndas/)
 
 <!---
 Nilay-Das/Nilay-Das is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
