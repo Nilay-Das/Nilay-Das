@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Nilay-Das
-- 👀 I’m interested in computer networking, cyber security, web and software development
-- 🌱 I’m currently learning Java, Python, HTML, CSS, JavaScript, MySQL, PHP
+- 👀 I’m interested in computer networking, cyber security, web, and software development
 - 💞️ I’m looking to collaborate on web and software development projects
 - 📫 Reach me out on LinkedIn (https://www.linkedin.com/in/nilay-das970/) and my website (https://web.cs.dal.ca/~ndas/)
 
